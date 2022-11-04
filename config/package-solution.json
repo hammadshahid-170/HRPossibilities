@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "hr-possibilities-client-side-solution",
+    "id": "7ad71fe0-01d6-4eb9-8379-2bde3580bd53",
+    "version": "1.0.0.1",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/hr-possibilities.sppkg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.12.1",
+    "libraryName": "hr-possibilities",
+    "libraryId": "7ad71fe0-01d6-4eb9-8379-2bde3580bd53",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
